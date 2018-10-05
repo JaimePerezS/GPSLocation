@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPSLocation</string>
+    <string name="GPS_permissions">Debes aceptar los permisos para utilizar la aplicación</string>
+    <string name="btn_loc_gps">Obtener Localización GPS</string>
+    <string name="btn_loc_net">Obtener Localización por Red</string>
+    <string name="txt_view_lat">Latitud:</string>
+    <string name="txt_view_lon">Longitud:</string>
+    <string name="txt_view_alt">Altitud:</string>
+    <string name="GPS_disabled">Parece que tu GPS está desactivado, ¿deseas activarlo?</string>
+    <string name="Network_disabled">Parece que tu red está desactivada, ¿deseas activarla?</string>
+    <string name="btn_yes">Si</string>
+    <string name="btn_no">No</string>
+    <string name="btn_close">Cerrar</string>
+    <string name="btn_watch_permissions">Ver Permisos</string>
+</resources>

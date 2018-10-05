@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GPSLocation</string>
+    <string name="btn_loc_gps">Get GPS Location</string>
+    <string name="btn_loc_net">Get Location by Network</string>
+
+    <string name="txt_view_lat">Latitude:</string>
+    <string name="txt_view_lon">Longitude:</string>
+    <string name="txt_view_alt">Altitude:</string>
+
+    <string name="GPS_permissions">You must accept the permissions to use the application</string>
+    <string name="btn_watch_permissions">Watch Permissions</string>
+    <string name="btn_close">Close</string>
+
+    <string name="GPS_disabled">It seems that your GPS is disabled, do you want to activate it?</string>
+    <string name="Network_disabled">It seems that your connection is disabled, do you want to activate it?</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+</resources>

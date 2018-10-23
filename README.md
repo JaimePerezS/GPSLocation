@@ -10,6 +10,8 @@ Requirements:
 - **Android 5.1 o above**.
 - **GPS**.
 
-You can see an screenshots in: https://github.com/JaimePerezS/GPSLocation/blob/master/screenshots/
+Screenshots:
+
+<img src="https://github.com/JaimePerezS/GPSLocation/blob/master/screenshots/Screenshot_1539731056.png" width="270" height="480" title="Screenshot">
 
 See more: https://developer.android.com/guide/topics/location/strategies
